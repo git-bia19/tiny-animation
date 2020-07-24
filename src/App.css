@@ -1,0 +1,46 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(178, 211, 230),
+    rgb(119, 121, 126)
+  );
+}
+
+.custom {
+  background-image: linear-gradient(
+    to right,
+    rgb(177, 207, 241),
+    rgb(123, 123, 129)
+  );
+}
+
+ul.MuiList-root.MuiList-padding {
+  padding: 0;
+}
+
+.textColor {
+  color: white;
+}
+
+.button {
+  background: blue ;
+  color: white;
+}
+
+ul.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+.hex{
+  top:8%;
+  position: absolute;
+}
+.car{
+  position: absolute;
+  left: 40%;
+}
+.world {
+  position: absolute;
+  left: 70%;
+
+}
